@@ -1,0 +1,34 @@
+#menu{
+    margin: 10px;
+}
+
+#name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.slidev{
+    width: 350px;
+    height: 300px;
+    margin-bottom: 90px;
+    margin-top: 50px;
+}
+#logo{
+width: 100; height: 100; border: 2px silver ridge; border-radius: 100px
+}
+
+#mainin{
+    border: 5px silver ridge;
+    border-radius: 100px;
+    height: 500px;
+    margin: 10px;
+    margin-left: 100px; 
+}
+
+#maininput{
+    border: 5px rgb(31, 159, 168) ridge;
+    border-radius: 100px;
+    height: 600px;
+    width: 500px;
+    margin: 10px;
+    margin-left: 530px; 
+}
